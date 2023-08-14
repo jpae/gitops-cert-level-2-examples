@@ -27,5 +27,6 @@ spec:
     jsonPointers:
     - /data
   - kind: Deployment
+    group: apps
     jsonPointers:
     - /metadata/annotations/creation
